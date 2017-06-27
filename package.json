@@ -1,0 +1,19 @@
+{
+  "name": "fw7",
+  "version": "1.0.0",
+  "description": "Framework7 Samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonpadua/fw7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonpadua/fw7/issues"
+  },
+  "homepage": "https://github.com/jonpadua/fw7#readme"
+}
